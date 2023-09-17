@@ -1,5 +1,3 @@
-import java.util.*;
-
 class SavingsAccount 
 {
     static double annualInterestRate;
